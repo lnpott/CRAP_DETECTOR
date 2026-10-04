@@ -1,0 +1,13 @@
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\bin\Debug\net8.0\Ato.Storage.deps.json
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\bin\Debug\net8.0\Ato.Storage.dll
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\bin\Debug\net8.0\Ato.Storage.pdb
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\obj\Debug\net8.0\Ato.Storage.csproj.AssemblyReference.cache
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\obj\Debug\net8.0\Ato.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\obj\Debug\net8.0\Ato.Storage.AssemblyInfoInputs.cache
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\obj\Debug\net8.0\Ato.Storage.AssemblyInfo.cs
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\obj\Debug\net8.0\Ato.Storage.csproj.CoreCompileInputs.cache
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\obj\Debug\net8.0\Ato.Storage.sourcelink.json
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\obj\Debug\net8.0\Ato.Storage.dll
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\obj\Debug\net8.0\refint\Ato.Storage.dll
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\obj\Debug\net8.0\Ato.Storage.pdb
+C:\Projetos\CRAP_DETECTOR\src\Ato.Storage\obj\Debug\net8.0\ref\Ato.Storage.dll

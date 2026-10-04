@@ -1,0 +1,12 @@
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\bin\Release\net8.0\Ato.Core.deps.json
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\bin\Release\net8.0\Ato.Core.dll
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\bin\Release\net8.0\Ato.Core.pdb
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\obj\Release\net8.0\Ato.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\obj\Release\net8.0\Ato.Core.AssemblyInfoInputs.cache
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\obj\Release\net8.0\Ato.Core.AssemblyInfo.cs
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\obj\Release\net8.0\Ato.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\obj\Release\net8.0\Ato.Core.sourcelink.json
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\obj\Release\net8.0\Ato.Core.dll
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\obj\Release\net8.0\refint\Ato.Core.dll
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\obj\Release\net8.0\Ato.Core.pdb
+C:\Projetos\CRAP_DETECTOR\src\Ato.Core\obj\Release\net8.0\ref\Ato.Core.dll

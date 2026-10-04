@@ -1,0 +1,6 @@
+C:\Projetos\CRAP_DETECTOR\src\Ato.Collector\obj\Release\net8.0\Ato.Collector.csproj.AssemblyReference.cache
+C:\Projetos\CRAP_DETECTOR\src\Ato.Collector\obj\Release\net8.0\Ato.Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CRAP_DETECTOR\src\Ato.Collector\obj\Release\net8.0\Ato.Collector.AssemblyInfoInputs.cache
+C:\Projetos\CRAP_DETECTOR\src\Ato.Collector\obj\Release\net8.0\Ato.Collector.AssemblyInfo.cs
+C:\Projetos\CRAP_DETECTOR\src\Ato.Collector\obj\Release\net8.0\Ato.Collector.csproj.CoreCompileInputs.cache
+C:\Projetos\CRAP_DETECTOR\src\Ato.Collector\obj\Release\net8.0\Ato.Collector.sourcelink.json

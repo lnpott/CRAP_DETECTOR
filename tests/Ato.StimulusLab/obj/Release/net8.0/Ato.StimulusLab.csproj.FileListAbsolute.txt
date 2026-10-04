@@ -1,0 +1,12 @@
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\bin\Release\net8.0\Ato.StimulusLab.deps.json
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\bin\Release\net8.0\Ato.StimulusLab.dll
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\bin\Release\net8.0\Ato.StimulusLab.pdb
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\obj\Release\net8.0\Ato.StimulusLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\obj\Release\net8.0\Ato.StimulusLab.AssemblyInfoInputs.cache
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\obj\Release\net8.0\Ato.StimulusLab.AssemblyInfo.cs
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\obj\Release\net8.0\Ato.StimulusLab.csproj.CoreCompileInputs.cache
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\obj\Release\net8.0\Ato.StimulusLab.sourcelink.json
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\obj\Release\net8.0\Ato.StimulusLab.dll
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\obj\Release\net8.0\refint\Ato.StimulusLab.dll
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\obj\Release\net8.0\Ato.StimulusLab.pdb
+C:\Projetos\CRAP_DETECTOR\tests\Ato.StimulusLab\obj\Release\net8.0\ref\Ato.StimulusLab.dll

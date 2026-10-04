@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UiWitiRL9FU=",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\CRAP_DETECTOR\\tests\\Ato.StimulusLab\\Ato.StimulusLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lnpot\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
